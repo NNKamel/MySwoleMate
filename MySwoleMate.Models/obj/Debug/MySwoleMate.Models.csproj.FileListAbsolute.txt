@@ -1,0 +1,10 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csprojAssemblyReference.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csproj.CoreCompileInputs.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb

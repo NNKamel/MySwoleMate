@@ -1,0 +1,16 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojResolveAssemblyReference.cache
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojAssemblyReference.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CoreCompileInputs.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CopyComplete
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb
