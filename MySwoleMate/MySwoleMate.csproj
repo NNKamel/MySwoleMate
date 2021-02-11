@@ -76,7 +76,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="AddWorkout.aspx" />
-    <Content Include="Workout.aspx" />
+    <Content Include="ViewWorkout.aspx" />
+    <Content Include="Workouts.aspx" />
     <None Include="Properties\PublishProfiles\LocalIIS.pubxml" />
     <None Include="Properties\PublishProfiles\LocalIIS1.pubxml" />
     <None Include="Web.Debug.config">
@@ -176,12 +177,19 @@
     <Compile Include="AddWorkout.aspx.designer.cs">
       <DependentUpon>AddWorkout.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Workout.aspx.cs">
-      <DependentUpon>Workout.aspx</DependentUpon>
+    <Compile Include="ViewWorkout.aspx.cs">
+      <DependentUpon>ViewWorkout.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Workout.aspx.designer.cs">
-      <DependentUpon>Workout.aspx</DependentUpon>
+    <Compile Include="ViewWorkout.aspx.designer.cs">
+      <DependentUpon>ViewWorkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workouts.aspx.cs">
+      <DependentUpon>Workouts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workouts.aspx.designer.cs">
+      <DependentUpon>Workouts.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

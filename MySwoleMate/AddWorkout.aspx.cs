@@ -47,7 +47,7 @@ namespace MySwoleMate
                 workout.Exercise5Sets = Exercise5Sets.Text;
 
                 bll.AddWorkout(workout);
-                Response.Redirect("~/Workout.aspx");
+                Response.Redirect("~/Workouts.aspx");
             }
         }
     }

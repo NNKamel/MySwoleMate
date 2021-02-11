@@ -18,3 +18,14 @@ C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\M
 C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csproj.CopyComplete
 C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.dll
 C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csprojAssemblyReference.cache
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csproj.CoreCompileInputs.cache
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csproj.CopyComplete
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.pdb

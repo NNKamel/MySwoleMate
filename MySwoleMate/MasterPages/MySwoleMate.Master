@@ -41,7 +41,7 @@
                             <a runat="server" href="~/Trainees.aspx">Trainees List</a>
                         </li>
                         <li class="page-scroll" runat="server" id="WorkoutMenu">
-                            <a runat="server" href="~/Workout.aspx">Workout Plans</a>
+                            <a runat="server" href="~/Workouts.aspx">Workout Plans</a>
                         </li>
                         <li class="page-scroll" runat="server" id="aboutMenu">
                             <a runat="server" href="~/About.aspx">About</a>

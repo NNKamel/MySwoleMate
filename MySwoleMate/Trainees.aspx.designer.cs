@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MySwoleMate {
-    
-    
-    public partial class Trainees {
-        
+namespace MySwoleMate
+{
+
+
+    public partial class Trainees
+    {
+
         /// <summary>
         /// TraineeList control.
         /// </summary>

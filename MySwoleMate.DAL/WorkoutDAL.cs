@@ -32,9 +32,10 @@ namespace MySwoleMate.DAL
 
                 using (SqlDataReader reader = cmd.ExecuteReader())
                 {
-                    WorkoutViewModel workout = new WorkoutViewModel();
+                    WorkoutViewModel workout;
                     while (reader.Read())
                     {
+                        workout = new WorkoutViewModel();
                         workout.WorkoutID = Convert.ToInt32(reader["WorkoutID"]);
 
                         workout.Exercise1 = reader["Exercise1"].ToString();
@@ -158,20 +159,20 @@ namespace MySwoleMate.DAL
         public int AddWorkout(WorkoutViewModel newWorkout)
         {
             string sqlQuery = "INSERT INTO Workout ("
-                + "Exercise1, Exercise1Reps, Exercise1Sets"
-                + "Exercise2, Exercise2Reps, Exercise2Sets"
-                + "Exercise3, Exercise3Reps, Exercise3Sets"
-                + "Exercise4, Exercise4Reps, Exercise4Sets"
+                + "Exercise1, Exercise1Reps, Exercise1Sets,"
+                + "Exercise2, Exercise2Reps, Exercise2Sets,"
+                + "Exercise3, Exercise3Reps, Exercise3Sets,"
+                + "Exercise4, Exercise4Reps, Exercise4Sets,"
                 + "Exercise5, Exercise5Reps, Exercise5Sets"
                 + ") VALUES ("
-                + "@Exercise1, @Exercise1Reps, @Exercise1Sets"
-                + "@Exercise2, @Exercise2Reps, @Exercise2Sets"
-                + "@Exercise3, @Exercise3Reps, @Exercise3Sets"
-                + "@Exercise4, @Exercise4Reps, @Exercise4Sets"
+                + "@Exercise1, @Exercise1Reps, @Exercise1Sets,"
+                + "@Exercise2, @Exercise2Reps, @Exercise2Sets,"
+                + "@Exercise3, @Exercise3Reps, @Exercise3Sets,"
+                + "@Exercise4, @Exercise4Reps, @Exercise4Sets,"
                 + "@Exercise5, @Exercise5Reps, @Exercise5Sets"
                 + ")";
 
-            using (SqlConnection con = new SqlConnection())
+            using (SqlConnection con = new SqlConnection(_connectionString))
             using (SqlCommand cmd = new SqlCommand(sqlQuery, con))
             {
                 con.Open();

@@ -195,7 +195,7 @@
                 <div class="form-group">
                     <div class="col-xs-4 col-xs-offset-4">
                         <asp:Button ID="WorkoutAddButton" runat="server" Text="Submit" CssClass="btn btn-success" OnClick="WorkoutAddButton_Click" ValidationGroup="AllValidators" />
-                        <asp:HyperLink CssClass="btn btn-default" NavigateUrl="~/Workout.aspx" runat="server" Text="Back">HyperLink</asp:HyperLink>
+                        <asp:HyperLink CssClass="btn btn-default" NavigateUrl="~/Workouts.aspx" runat="server" Text="Back">Back</asp:HyperLink>
                     </div>
                 </div>
             </div>

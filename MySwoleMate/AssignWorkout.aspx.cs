@@ -38,6 +38,11 @@ namespace MySwoleMate
                         + " " + workout.DisplayExercise5, workout.WorkoutID.ToString()));
                 });
 
+                if (trainee.WorkoutID!=0)
+                {
+                    WorkoutDropdownList.SelectedValue = trainee.WorkoutID.ToString();
+                }
+
                 WorkoutDropdownList.DataSource = items;
                 WorkoutDropdownList.DataValueField = "Value";
                 WorkoutDropdownList.DataTextField = "Text";
@@ -47,11 +52,13 @@ namespace MySwoleMate
 
         protected void AssignWorkout_OnClick(object sender, EventArgs e)
         {
+            trainee = tbll.GetTraineeById(Convert.ToInt32(Request.QueryString["TraineeID"]));
+
             trainee.WorkoutID = Convert.ToInt32(WorkoutDropdownList.SelectedItem.Value);
 
             tbll.EditTrainee(trainee);
 
-            Response.Redirect("~/Trainee.aspx");
+            Response.Redirect("~/Trainees.aspx");
         }
     }
 }

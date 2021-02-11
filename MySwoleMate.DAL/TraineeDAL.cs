@@ -42,6 +42,7 @@ namespace MySwoleMate.DAL
                     while (reader.Read())
                     {
                         //store each value into the properties of TraineeViewModel
+                        string k = reader["WorkoutID"].ToString();
                         TraineeViewModel temp = new TraineeViewModel()
                         {
                             TraineeID = Convert.ToInt32(reader["TraineeID"]),
@@ -52,7 +53,9 @@ namespace MySwoleMate.DAL
                             Weight = Convert.ToInt32(reader["Weight"]),
                             CellNbr = reader["CellNbr"].ToString(),
                             Gender = reader["Gender"].ToString(),
-                            Age = Convert.ToInt32(reader["Age"])
+                            Age = Convert.ToInt32(reader["Age"]),
+                            WorkoutID = Convert.ToInt32(reader["WorkoutID"].ToString().CompareTo("")==0 ? "0" : reader["WorkoutID"])
+                            //WorkoutID = Convert.ToInt32(reader.IsDBNull(9) ? "0" : reader["WorkoutID"])
                         };
                         //Add the Trainee object to the List of Trainee
                         trainees.Add(temp);
@@ -86,6 +89,9 @@ namespace MySwoleMate.DAL
                         trainee.CellNbr = reader["CellNbr"].ToString();
                         trainee.Gender = reader["Gender"].ToString();
                         trainee.Age = Convert.ToInt32(reader["Age"]);
+                        //trainee.WorkoutID = Convert.ToInt32(Convert.IsDBNull(reader["WorkoutID"]) ? reader["WorkoutID"] : "0");
+                        //trainee.WorkoutID = Convert.ToInt32(reader.IsDBNull(9) ? "0" : reader["WorkoutID"]);
+                        trainee.WorkoutID = Convert.ToInt32(reader["WorkoutID"].ToString().CompareTo("") == 0 ? "0" : reader["WorkoutID"]);
                     }
                 }
             }

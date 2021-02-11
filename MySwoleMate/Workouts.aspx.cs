@@ -36,7 +36,7 @@ namespace MySwoleMate
             WorkoutBLL workout = new WorkoutBLL(connectionString);
             WorkoutList.DataSource = workout.GetAllWorkouts();
             WorkoutList.DataBind();
-            
+
         }
     }
 }

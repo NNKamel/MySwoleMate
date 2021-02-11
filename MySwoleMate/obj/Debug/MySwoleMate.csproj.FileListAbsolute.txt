@@ -52,3 +52,31 @@ C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\M
 C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.DAL.pdb
 C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\obj\Debug\MySwoleMate.csproj.CopyComplete
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\csc.exe
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\System.Collections.Immutable.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\System.Reflection.Metadata.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\vbc.exe
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\VBCSCompiler.exe
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\roslyn\VBCSCompiler.exe.config
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.dll.config
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.BLL.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.Models.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.DAL.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.BLL.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.Models.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\bin\MySwoleMate.DAL.pdb
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\obj\Debug\MySwoleMate.csprojAssemblyReference.cache
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\obj\Debug\MySwoleMate.csproj.CoreCompileInputs.cache
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\obj\Debug\MySwoleMate.csproj.CopyComplete
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\obj\Debug\MySwoleMate.dll
+D:\werk-nonsync-temp\Revature\pre-training\MySwoleMate Project\repo\MySwoleMate\MySwoleMate\obj\Debug\MySwoleMate.pdb

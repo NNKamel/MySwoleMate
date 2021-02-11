@@ -36,6 +36,7 @@ namespace MySwoleMate.BLL
                 //into the HeightDisplay and PhoneDisplay properties of the item.
                 //The DisplayHeight is done for you.
                 item.DisplayHeight = HeightDisplay(item.Height);
+                item.DisplayCellNbr = PhoneDisplay(item.CellNbr);
             }
             return trainees;
         }
