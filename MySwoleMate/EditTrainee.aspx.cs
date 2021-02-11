@@ -59,6 +59,7 @@ namespace MySwoleMate
                 trainee.CellNbr = CellNbr.Text;
                 trainee.Gender = Gender.SelectedValue;
                 trainee.Age = Convert.ToInt32(Age.Text);
+                trainee.WorkoutID = 0;
                 //Call the EditTrainee() method passing in the new values
                 bll.EditTrainee(trainee);
                 //Redirect to the Trainees.aspx page

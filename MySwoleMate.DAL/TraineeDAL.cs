@@ -103,7 +103,19 @@ namespace MySwoleMate.DAL
         {
             string sqlQuery = "Update Trainee Set FirstName=@FirstName, LastName=@LastName, " +
                 "Email=@Email, Height=@Height, Weight=@Weight, CellNbr=@CellNbr, Gender=@Gender, " +
+                "Age=@Age, WorkoutID=@WorkoutID Where TraineeID=@ID";
+
+            if (edit.WorkoutID==0)
+            {
+                sqlQuery = "Update Trainee Set FirstName=@FirstName, LastName=@LastName, " +
+                "Email=@Email, Height=@Height, Weight=@Weight, CellNbr=@CellNbr, Gender=@Gender, " +
                 "Age=@Age Where TraineeID=@ID";
+            } else
+            {
+                sqlQuery = "Update Trainee Set FirstName=@FirstName, LastName=@LastName, " +
+                "Email=@Email, Height=@Height, Weight=@Weight, CellNbr=@CellNbr, Gender=@Gender, " +
+                "Age=@Age, WorkoutID=@WorkoutID Where TraineeID=@ID";
+            }
 
             //No need to use SqlDataReader here since we are just using the Sql Query to persist to database
             using (SqlConnection con = new SqlConnection(_connectionString))
@@ -119,6 +131,10 @@ namespace MySwoleMate.DAL
                 cmd.Parameters.Add("@CellNbr", SqlDbType.VarChar).Value = edit.CellNbr;
                 cmd.Parameters.Add("@Gender", SqlDbType.VarChar).Value = edit.Gender;
                 cmd.Parameters.Add("@Age", SqlDbType.Int).Value = edit.Age;
+                if (edit.WorkoutID!=0)
+                {
+                    cmd.Parameters.Add("@WorkoutID", SqlDbType.Int).Value = edit.WorkoutID;
+                }
                 return cmd.ExecuteNonQuery();
             }
         }
