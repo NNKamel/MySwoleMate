@@ -35,7 +35,7 @@
                     <h1>Personalized 5-STEP Workout Plan</h1>
                     <p>Create personalized 5-Step Workout Plans for all of your Trainees and assign them to your Trainees! MySwoleMate is is the only app you will need to get your trainees SWOLE.</p>
                     <p>
-                        <a href="~/Workout.aspx" runat="server" class="btn btn-lg btn-success">Create a Workout</a>
+                        <a href="~/Workouts.aspx" runat="server" class="btn btn-lg btn-success">Create a Workout</a>
                     </p>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                 </div>
                 <div class="col-xs-8 col-xs-offset-2 text-center">
                     <br />
-                    <a href="~/Workout.aspx" runat="server" class="btn btn-lg btn-success">Create a Workout</a>
+                    <a href="~/Workouts.aspx" runat="server" class="btn btn-lg btn-success">Create a Workout</a>
                 </div>
             </div>
         </div>

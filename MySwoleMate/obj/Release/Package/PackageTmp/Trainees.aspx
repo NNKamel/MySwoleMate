@@ -43,6 +43,11 @@
                             <asp:BoundField DataField="DisplayCellNbr" HeaderText="Cell #" />
                             <asp:BoundField DataField="Gender" HeaderText="Gender" />
                             <asp:BoundField DataField="Age" HeaderText="Age" />
+
+                            <asp:HyperLinkField Text="Assign Workout" runat="server" DataNavigateUrlFields="TraineeID" DataNavigateUrlFormatString="~/AssignWorkout.aspx?TraineeID={0}" 
+                                ControlStyle-CssClass="btn btn-success btn-xs" ItemStyle-CssClass="text-center"/>
+                            <asp:HyperLinkField Text="View Workout" DataNavigateUrlFields="TraineeID" DataNavigateUrlFormatString="~/ViewWorkout.aspx?TraineeID={0}" 
+                                ControlStyle-CssClass="btn btn-success btn-xs" ItemStyle-CssClass="text-center" />
                         </Columns>
                     </asp:GridView>
                 </div>

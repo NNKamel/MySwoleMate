@@ -24,3 +24,31 @@ C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleM
 C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\obj\Release\MySwoleMate.csprojResolveAssemblyReference.cache
 C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\obj\Release\MySwoleMate.dll
 C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\obj\Release\MySwoleMate.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\csc.exe
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\System.Collections.Immutable.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\System.Reflection.Metadata.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\vbc.exe
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\VBCSCompiler.exe
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\roslyn\VBCSCompiler.exe.config
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.dll.config
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.BLL.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.Models.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.DAL.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.BLL.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.Models.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\bin\MySwoleMate.DAL.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\obj\Release\MySwoleMate.csprojAssemblyReference.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\obj\Release\MySwoleMate.csproj.CoreCompileInputs.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\obj\Release\MySwoleMate.csproj.CopyComplete
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\obj\Release\MySwoleMate.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate\obj\Release\MySwoleMate.pdb

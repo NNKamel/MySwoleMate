@@ -3,3 +3,9 @@ C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleM
 C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Release\MySwoleMate.Models.csprojResolveAssemblyReference.cache
 C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Release\MySwoleMate.Models.dll
 C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Release\MySwoleMate.Models.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\bin\Release\MySwoleMate.Models.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\bin\Release\MySwoleMate.Models.pdb
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Release\MySwoleMate.Models.csprojAssemblyReference.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Release\MySwoleMate.Models.csproj.CoreCompileInputs.cache
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Release\MySwoleMate.Models.dll
+C:\General\Revature\RevaturePro\MySwoleMate\MySwoleMate_StarterKit\MySwoleMate\MySwoleMate.Models\obj\Release\MySwoleMate.Models.pdb
