@@ -152,6 +152,8 @@ namespace MySwoleMate.DAL
                 cmd.Parameters.Add("@Exercise5Reps", SqlDbType.VarChar).Value = newWorkout.Exercise5Reps;
                 cmd.Parameters.Add("@Exercise5Sets", SqlDbType.VarChar).Value = newWorkout.Exercise5Sets;
 
+                cmd.Parameters.Add("@WorkoutID", SqlDbType.Int).Value = newWorkout.WorkoutID;
+
                 return cmd.ExecuteNonQuery();
             }
         }
